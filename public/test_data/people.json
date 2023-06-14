@@ -1,0 +1,16 @@
+{
+  "people" : [
+    {
+      "id": "101",
+      "name": "Oliver Hansen"
+    },
+    {
+      "id": "102",
+      "name": "Van Henry"
+    },
+    {
+      "id": "103",
+      "name": "April Tucker"
+    }
+  ]
+}

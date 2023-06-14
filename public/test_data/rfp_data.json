@@ -1,0 +1,75 @@
+{
+    "rfp_data": [
+        {
+            "_id": "rfp0010",
+            "name": "doc-010",
+            "date_issued" : "2022-12-01",
+            "date_due": "2022-12-25",
+            "volumes": [
+                {
+                    "type": "Technical",
+                    "assigned_to": [
+                        "101"
+                    ],
+                    "sharepoint_link": "http://www.boston.com",
+                    "progress": "UNSTARTED"
+                },
+                {
+                    "type": "Management",
+                    "assigned_to": [
+                            "102",
+                            "103"
+                    ],
+                    "sharepoint_link": "",
+                    "progress": "IN_PROGRESS"
+                }
+            ]
+        },
+        {
+            "_id": "rfp0009",
+            "name": "doc-009",
+            "date_issued" : "2022-12-06",
+            "date_due": "2023-01-15",
+            "volumes": [
+                {
+                    "type": "Technical",
+                    "assigned_to": [
+                    ],
+                    "sharepoint_link": "http://www.boston.com",
+                    "progress": "UNSTARTED"
+                },
+                {
+                    "type": "Management",
+                    "assigned_to": [
+                        "103"
+                    ],
+                    "sharepoint_link": "http://www.boston.com",
+                    "progress": "COMPLETED"
+                }
+            ]
+        },
+        {
+            "_id": "rfp0008",
+            "name": "doc-008",
+            "date_issued" : "2022-11-24",
+            "date_due": "2022-12-15",
+            "volumes": [
+                {
+                    "type": "Technical",
+                    "assigned_to": [
+                    ],
+                    "sharepoint_link": "",
+                    "progress": "UNSTARTED"
+                },
+                {
+                    "type": "Management",
+                    "assigned_to": [
+                    ],
+                    "sharepoint_link": "",
+                    "progress": "UNSTARTED"
+                }
+            ]
+        }
+
+    ]
+}

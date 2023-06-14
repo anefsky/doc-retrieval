@@ -1,0 +1,84 @@
+{
+  "responses_data": [
+    {
+      "id": "a101",
+      "contractor": {
+        "id": "101",
+        "name": "General Dynamics"
+      },
+      "volumes": [
+        {
+            "type": "Technical",
+            "human_score": 7,
+            "date_received": "2022-12-24"
+        },
+        {
+            "type": "Management",
+            "bot_score": 4,
+            "human_score": 2,
+            "date_received": "2022-12-22"
+        }
+      ]
+    },
+    {
+      "id": "a102",
+      "contractor": {
+        "id": "102",
+        "name": "McKesson Corp"
+      },
+      "volumes": [
+        {
+            "type": "Technical",
+            "bot_score": 8,
+            "human_score": 7,
+            "date_received": "2022-10-04"
+        },
+        {
+            "type": "Management",
+            "bot_score": 4,
+            "human_score": 9,
+            "date_received": "2022-11-24"
+        }
+      ]
+    },
+    {
+      "id": "a103",
+      "contractor": {
+        "id": "103",
+        "name": "KBR"
+      },
+      "volumes": [
+        {
+            "type": "Technical"
+        },
+        {
+            "type": "Management",
+            "bot_score": 4,
+            "date_received": "2022-09-24"
+        }
+      ]
+    },
+    {
+      "id": "a104",
+      "contractor": {
+        "id": "104",
+        "name": "Serco Engineering"
+      },
+      "volumes": [
+        {
+            "type": "Technical",
+            "human_score": 3,
+            "date_received": "2022-11-21"
+        },
+        {
+            "type": "Management",
+            "bot_score": 4,
+            "human_score": 9,
+            "date_received": "2022-08-13"
+        }
+      ]
+    }
+
+
+  ]
+}
